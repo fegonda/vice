@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## VICE: Visual Identification and Correction of Neural Circuit Errors
 
 You can use the [editor on GitHub](https://github.com/fegonda/vice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
